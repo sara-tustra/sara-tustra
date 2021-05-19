@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **sara-tustra/sara-tustra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sarai :smile:
+
+I love coding :blue_heart:
+
+🔭 I’m currently working on my final project from 4Geeks Academy :muscle:
+
+🌱 I’m currently learning Python and JavaScript frameworks and libraries
+
+You can reach me in 
+[my Linkedin profile](https://www.linkedin.com/in/sarai-virginia-santiago-monsalve) :smiley_cat:
+
+
