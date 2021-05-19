@@ -29,9 +29,11 @@ You can reach me in
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-tustra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-tustra&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-tustra&langs_count=2&hide=scss,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-tustra&layout=compact&langs_count=3&hide=scss,html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
