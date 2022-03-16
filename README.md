@@ -20,9 +20,9 @@ I'm Sarai :smile:
 
 I love coding :blue_heart:
 
-🔭 I’m currently working on my final project from 4Geeks Academy :muscle:
+🔭 I’m currently working on soleit :muscle:
 
-🌱 I’m currently learning Python and JavaScript frameworks and libraries
+🌱 I’m currently learning Python, JavaScript frameworks and libraries (front and back-end), AWS and Docker.
 
 You can reach me in 
 [my Linkedin profile](https://www.linkedin.com/in/sarai-virginia-santiago-monsalve) :smiley_cat:
