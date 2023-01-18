@@ -22,7 +22,7 @@ I love coding :blue_heart:
 
 🔭 I’m currently working on Wheel The World :wheelchair: :muscle:
 
-🌱 I’m currently learning Typescript, JS frameworks and libraries (front and back-end), GCF and more cool stuff.
+🌱 I’m currently learning Typescript, JS frameworks and libraries (front and back-end), GCP and more cool stuff.
 
 You can reach me in 
 [my Linkedin profile](https://www.linkedin.com/in/sarai-virginia-santiago-monsalve) :smiley_cat:
